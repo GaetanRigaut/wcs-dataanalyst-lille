@@ -1,0 +1,31 @@
+echo "# wcs-dataanalyst-lille" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M master 
+git remote add origin https://github.com/GaetanRigaut/wcs- dataanalyst-lille.git
+ git push -u origin master
+                Variables
+
+compteur
+
+n
+
+
+
+DEBUT
+
+
+
+Lire n
+
+Pour compteur de 1 à n (par pas de 1), faire
+
+Afficher "Bienvenue à Wild"
+
+Fin Pour
+
+
+
+FIN
+                
